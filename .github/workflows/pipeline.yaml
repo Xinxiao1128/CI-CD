@@ -34,4 +34,4 @@ jobs:
 
       - name: Run pipeline
         run: |
-          python step1_dataset_artifact.py  # ✅ 改成正确文件名
+          python s1_dataset_artifact.py  # ✅ 改成正确文件名
